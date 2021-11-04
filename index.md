@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Imtiaz Ali"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Imitaz Ali
+
+Junior Unity Developer ...
